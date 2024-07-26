@@ -1,0 +1,5 @@
+config RTL8818GU
+	tristate "Realtek 8818GU USB WiFi"
+	depends on USB
+	help
+	  Help message of RTL8818GU
