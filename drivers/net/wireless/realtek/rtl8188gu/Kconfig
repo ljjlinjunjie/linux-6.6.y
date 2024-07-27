@@ -1,5 +1,5 @@
-config RTL8818GU
-	tristate "Realtek 8818GU USB WiFi"
+config RTL8188GU
+	tristate "Realtek 8188GU USB WiFi"
 	depends on USB
 	help
-	  Help message of RTL8818GU
+	  Help message of RTL8188GU
